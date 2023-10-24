@@ -1,4 +1,4 @@
-Interested in improving my knowledge of Korn shell scripts and PL/SQL
+maybe I will migrate from Dimensions someday
 <!---
  this readme.md will be on my profile, click the Preview link to take a look.
 --->
